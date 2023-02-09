@@ -1,0 +1,7 @@
+segment_sources:
+  IB0D6D0A8:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: 15AC
+segment_pairs: {}
